@@ -1,0 +1,2 @@
+# Identification_of_customer_segment_from_overall_customer
+our job was to identify segment of different customer and place them in seperate cluster using(K-mean algorithm). Using this model company can reach out to each different group of people with product desired by them (using Decision tree algorithm). Here we need to handle huge dataset so we need (principal component analysis) to reduce the dimension of the dataset. Then only our dataset consume less memory space and  algorthim will take less time to execute the dataset
